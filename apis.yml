@@ -1,0 +1,15 @@
+name: copilot-instructions.md
+description: GitHub Copilot custom instructions file placed in .github/ directory,
+  providing repository-specific coding standards, framework preferences, and behavioral
+  guidelines for Copilot Chat and coding agent.
+url: ''
+tags:
+- AI Copilot
+- GitHub Copilot
+- Developer Workflow
+- Coding Standards
+- Repository
+created: '2025'
+modified: '2025'
+apis: []
+common: []
