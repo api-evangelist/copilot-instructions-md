@@ -1,0 +1,13 @@
+{
+  "repo": "copilot-instructions-md",
+  "feeds": [
+    {
+      "source": "https://github.blog/changelog/2025-01-23-custom-instructions-for-github-copilot-in-vs-code-now-generally-available/",
+      "feed_url": "https://github.blog/feed/",
+      "saved": 10,
+      "title": "The GitHub Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:26:47Z"
+}
