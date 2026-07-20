@@ -2,7 +2,7 @@ aid: copilot-instructions-md
 url: >-
   https://raw.githubusercontent.com/api-evangelist/copilot-instructions-md/refs/heads/main/apis.yml
 name: copilot-instructions.md
-kind: standard
+kind: topic
 description: >-
   copilot-instructions.md is a GitHub Copilot custom instructions file
   placed at .github/copilot-instructions.md in a repository. It provides
