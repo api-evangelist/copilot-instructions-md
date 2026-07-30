@@ -13,7 +13,19 @@ description: >-
   framework, and style conventions so it can produce code that is
   consistent with the project's expectations and reduce pull request
   rejections caused by avoidable lint, CI, or convention failures.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/copilot-instructions-md.png
 tags:
   - AI Coding
   - Coding Standards
