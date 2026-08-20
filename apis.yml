@@ -43,6 +43,11 @@ apis:
   - aid: copilot-instructions-md:format
     name: copilot-instructions.md Format
     tags:
+      - Conventions
+      - GitHub Copilot
+      - Markdown
+      - Repository
+    tags_raw:
       - Convention
       - GitHub Copilot
       - Markdown
