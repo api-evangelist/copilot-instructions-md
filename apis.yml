@@ -13,6 +13,17 @@ description: >-
   framework, and style conventions so it can produce code that is
   consistent with the project's expectations and reduce pull request
   rejections caused by avoidable lint, CI, or convention failures.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
